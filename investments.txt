@@ -1,0 +1,14 @@
+type = stock
+symbol = AMZN
+name = amazon
+quantity = 10
+price = 10.0
+bookValue = 109.99
+
+type = mutualfund
+symbol = APPL
+name = apple inc
+quantity = 23
+price = 34.0
+bookValue = 782.0
+
