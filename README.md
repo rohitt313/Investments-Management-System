@@ -1,4 +1,4 @@
-# Investments-Management-System
+# Investments Management System
 
 
 ## Objective
