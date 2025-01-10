@@ -17,9 +17,9 @@ java -jar ePortfolio.jar fileName.txt
 
 ## Functionality
 The package - ePortfolio contains an event-driven program where the user will be provided a drop-down Menu and 3 window control buttons: Minimize, Maximize and Close at the top of the window. However, the Close button will be disabled for the window so that the user does not accidentally close the window and lose the changes made to the Portfolio. The Main Menu has the following options:
-(a)Buy - To buy a new investment or buy additional shares of an existing investment
-(b)Sell - To sell all/partial shares of an existing investment 
-(c)Update - To update the current price of an existing investment
-(d)getGain - To see the total gain of the Portfolio if all the investments were to be sold as well as individual gain of each investment
-(e)Search - To search an investment/investments based on Symbol, Name(Keywords) and price
-(f)Quit - To terminate the program which will close the window and save the changes made to the Portfolio in a text file
+* Buy - To buy a new investment or buy additional shares of an existing investment
+* Sell - To sell all/partial shares of an existing investment 
+* Update - To update the current price of an existing investment
+* getGain - To see the total gain of the Portfolio if all the investments were to be sold as well as individual gain of each investment
+* Search - To search an investment/investments based on Symbol, Name(Keywords) and price
+* Quit - To terminate the program which will close the window and save the changes made to the Portfolio in a text file
