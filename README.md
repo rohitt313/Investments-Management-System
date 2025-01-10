@@ -23,8 +23,3 @@ The package - ePortfolio contains an event-driven program where the user will be
 (d)getGain - To see the total gain of the Portfolio if all the investments were to be sold as well as individual gain of each investment
 (e)Search - To search an investment/investments based on Symbol, Name(Keywords) and price
 (f)Quit - To terminate the program which will close the window and save the changes made to the Portfolio in a text file
-
-
-
-
-6. For the "quit" command, if the user selects this option from the drop-down menu, then we will terminate the program and save all the changes made to the Portfolio in a text file.
